@@ -8,9 +8,8 @@
 - % [percentage sign]
 - ^ [caret]
 - & [ampersand] 
-- \* [aterisk] 
-- ( [open-bracket parenthesis]
-- * [closed-bracket parenthesiss[hyphen]
++ * [aterisk] 
+- [hphtenP]
 <!-- end of the list -->
 
 # Linkss 
