@@ -1,5 +1,5 @@
-# Unicorn 
-## Number Row Characters
+# unicorn 
+# Number Row Characters
 * ~ [tilde]
 - ! [exclaimation point]
 - \# [hastag]
@@ -11,16 +11,16 @@
 - \* [aterisk] 
 - ( [open-bracket parenthesis]
 - ) [closed-bracket parenthesis]
- * - [Hypen]
+- */ -[hyphen]
 
 <!-- end of the list -->
 
-# Lists 
+# Linkss 
 - [Complete Guide of Readme Markdown Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax)
 - [Markdown Guice](markdownguide.org/basic-syntax/)
 - [Basic Writing and Github Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <!-- end of the list -->
 
-## Experiements
-:GEMS:
+### Experiements
+:gem: :unicorn:
