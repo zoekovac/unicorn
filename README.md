@@ -10,9 +10,7 @@
 - & [ampersand] 
 - \* [aterisk] 
 - ( [open-bracket parenthesis]
-- ) [closed-bracket parenthesis]
-- */ -[hyphen]
-
+- * [closed-bracket parenthesiss[hyphen]
 <!-- end of the list -->
 
 # Linkss 
