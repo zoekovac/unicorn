@@ -1,5 +1,5 @@
-#unicorn
-# Number Row Characters
+# Unicorn 
+## Number Row Characters
 * ~ [tilde]
 - ! [exclaimation point]
 - \# [hastag]
@@ -10,11 +10,10 @@
 - & [ampersand] 
 - \* [aterisk] 
 - ( [open-bracket parenthesis]
-- ) [close-bracket parenthesis] 
-- /- [hyphen]
-- /+ [plus sign]
-#Links
+- ) [closed-bracket parenthesis]
+- /- [Hyphen]
+- /+ [plus sugn]
 - [Complete Guide of Readme Markdown Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax)
+- [Markdown Guice](markdownguide.org/basic-syntax/)
 - [Basic Writing and Github Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Markdown Syntax](https://www.jetbrains.com/help/hub/markdown-syntax.html)
-# Experiments   
+### Experiements
