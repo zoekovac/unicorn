@@ -17,7 +17,7 @@
     
 <!-- end of the list -->
 
-# Linkss 
+# Links
 - [Complete Guide of Readme Markdown Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax)
 - [Markdown Guice](markdownguide.org/basic-syntax/)
 - [Basic Writing and Github Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-[]formatting-syntax)
