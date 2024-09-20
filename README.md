@@ -12,8 +12,8 @@
 - /* aterisk
 - ( open-bracket
 - ) closed-bracket
-+ /- hyphen/minus
--/ + plus/addition symbol
+-/ - hyphen/minus
++/ + plus/addition symbol
     
 <!-- end of the list -->
 
