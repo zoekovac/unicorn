@@ -3,17 +3,17 @@
 # Number Row Characters
 - ~ tilde
 - ! exclaimation point
-- /# hastag/pound
+- \# hastag/pound
 - @ at sign
 - $ dollar sign
 - % percentage sign
 - ^ caret
 - & ampersand
-\-\ * aterisk
+- \* aterisk
 - ( open-bracket
 - ) closed-bracket
-\-\ - hyphen/minus
-\+\ + plus/addition symbol
+- \- hyphen/minus
+- \+ plus/addition symbol
     
 <!-- end of the list -->
 
